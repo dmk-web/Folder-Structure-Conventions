@@ -1,7 +1,7 @@
 Folder Structure Conventions
 ============================
 
-test
+testus122
 
 > Folder structure options and naming conventions for software projects
 
